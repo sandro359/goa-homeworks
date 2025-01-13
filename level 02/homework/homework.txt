@@ -1,0 +1,8 @@
+
+ვისაც დაიმეგობრებთ, ამოიწერეთ მათი სახელები ტექსტურ ფაილში. level2.txt 
+ 
+
+giga khutsishvili
+saba lomsadze
+giorgi nebieridze
+niko araxamia

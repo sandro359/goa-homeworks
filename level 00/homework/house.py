@@ -1,0 +1,32 @@
+from turtle import *
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(50)
+forward(50)
+forward(100)
+left(90)
+forward(130)
+left(40)
+forward(200)
+left(90)
+forward(70)
+left(90)
+forward(100)
+right(90)
+forward(50)
+right(90)
+forward(100)
+exitonclick()
+
+# forward - წინ წასვლა
+# left - მარცხნივ მოხვევა
+# right - მარჯვნივ მოხვევა
