@@ -1,0 +1,31 @@
+
+
+<!--4. დაამატეთ ფოტო საიტზე. გამოიყენეთ onclick ფუნქცია 2 ღილაკზე. ორივე ღილაკმა უნდა შეცვალონ პირველი ფოტო და დააყენონ სხვადასხვა ფოტო.-->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ფოტოს ცვლა ღილაკებით</title>
+</head>
+<body>
+
+<img id="myImage" src="https://via.placeholder.com/200" alt="ფოტო" width="200"><br><br>
+
+<button onclick="changeToPhoto1()">სურათი 1</button>
+<button onclick="changeToPhoto2()">სურათი 2</button>
+
+<script>
+  function changeToPhoto1() {
+    document.getElementById("myImage").src = "https://via.placeholder.com/200/ff7f7f";
+  }
+
+  function changeToPhoto2() {
+    document.getElementById("myImage").src = "https://via.placeholder.com/200/87ceeb";
+  }
+</script>
+
+</body>
+</html>
+
+
